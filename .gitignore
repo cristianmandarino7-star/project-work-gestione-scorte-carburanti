@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+data/raw_mimit/
+*.tar.gz
